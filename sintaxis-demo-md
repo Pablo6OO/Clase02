@@ -1,0 +1,16 @@
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+
+**negrita**
+*cursivo*
+~~tachado~~
+
+- Primer elemento
+- - Segundo elemento
+
+Para hipervinculo -> **[1\. Texto 1](#1.-Texto)**
+
+Para checklist -> - [x] Tarea 1
+- [ ] Tarea 2
+- [x] Otra tarea 
